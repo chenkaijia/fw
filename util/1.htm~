@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+		<title>Hello world</title>
+	</head>
+<body>
+
+		<input type="button" id="myButton" value="Click me" />
+
+		<script type="text/javascript" language="Javascript"  src="array.js"></script>
+</body>
+</html>
